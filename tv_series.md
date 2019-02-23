@@ -72,6 +72,16 @@
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt1839578/)
 
+### 8.4
+
+### Halt and Catch Fire
+> It's the early 1980s, and the spirit of innovation in personal computing is about to catch fire. Hot on the trail is a renegade trio -- a visionary, an engineer and a prodigy -- who risk everything to realize their vision of building a computer that can change the future. Not long after IBM corners …
+
+![Halt and Catch Fire](assets/halt_and_catch_fire.jpg)
+* Year: 2014-2017
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt2543312/)
+
 ### 8.2
 
 #### Chuck
